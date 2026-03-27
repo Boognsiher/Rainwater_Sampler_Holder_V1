@@ -1,6 +1,6 @@
 # Rainwater_Sampler_Holder_V1
 
-A 3D-printable holder for automatic rainwater collection. The mount clamps a standard funnel at the top and holds a laboratory vial underneath to collect the water. An integrated millimetre scale (10–60 mm) is visible through a viewing window on the side.
+A 3D-printable holder for a manual rainwater collection. The mount clamps a standard funnel at the top and holds a laboratory vial underneath to collect the water. An integrated millimetre scale (10–60 mm) is visible through a viewing window on the side.
 
 ![Rainwater Funnel Holder](./preview.png)
 <!-- Replace preview.png with your own screenshot -->
